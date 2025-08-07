@@ -29,4 +29,4 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem local
 
-![Logo do Python](C:\Users\Claudio\Documents\Programações\Git\ecommerce\img\Logo Python.png)
+![Logo do Python](img\python.png)
