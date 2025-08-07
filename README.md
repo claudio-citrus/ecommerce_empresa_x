@@ -33,4 +33,4 @@ __Melhoria 1__, _melhoria 2_
 
 ### Imagem externa
 
-![logo do PHP](https://pngimg.com/image/60258)
+![logo do PHP](https://pngimg.com/uploads/php/php_PNG26.png)
