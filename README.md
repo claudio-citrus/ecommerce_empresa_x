@@ -16,7 +16,7 @@ Tela de produto com informações detalhadas
 
 Processo de checkout funcional e seguro
 
-#### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -30,7 +30,7 @@ MySQL para o gerenciamento do banco de dados
 
 Funcionalidades em Desenvolvimento
 
-##### Área de Membros
+## Área de Membros
 
 Sistema de login com diferentes tipos de clientes
 
@@ -46,7 +46,7 @@ Sistema de Bônus na Primeira Compra
 
 Incentivo automático para novos clientes realizarem sua primeira compra
 
-###### Melhorias Planejadas
+## Melhorias Planejadas
 
 Otimização da performance geral do sistema
 
