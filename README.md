@@ -2,11 +2,11 @@
 
 Este projeto consiste no desenvolvimento de uma plataforma de e-commerce completa, criada com o objetivo de simular um ambiente real de vendas online. O sistema foi pensado para oferecer uma experiência de compra simples, intuitiva e personalizada para diferentes perfis de clientes.
 
-Visão Geral do Projeto
+## Visão Geral do Projeto
 
 A aplicação conta com as principais funcionalidades encontradas em lojas virtuais modernas, incluindo navegação por catálogo, visualização detalhada de produtos e um processo de checkout otimizado. O layout foi planejado para ser responsivo e visualmente atrativo, com destaque para banners promocionais na página inicial.
 
-Funcionalidades Principais
+### Funcionalidades Principais
 
 Página inicial com banners promocionais dinâmicos
 
@@ -16,7 +16,7 @@ Tela de produto com informações detalhadas
 
 Processo de checkout funcional e seguro
 
-Tecnologias Utilizadas
+#### Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -30,7 +30,7 @@ MySQL para o gerenciamento do banco de dados
 
 Funcionalidades em Desenvolvimento
 
-Área de Membros
+##### Área de Membros
 
 Sistema de login com diferentes tipos de clientes
 
@@ -46,7 +46,7 @@ Sistema de Bônus na Primeira Compra
 
 Incentivo automático para novos clientes realizarem sua primeira compra
 
-Melhorias Planejadas
+###### Melhorias Planejadas
 
 Otimização da performance geral do sistema
 
