@@ -1,6 +1,6 @@
 # E-commerce empresa X
 
-Vamos criar um **e-commerce**, para a *empresa X* e blablabla
+Este projeto consiste no desenvolvimento de uma plataforma de e-commerce completa, criada com o objetivo de simular um ambiente real de vendas online. O sistema foi pensado para oferecer uma experiência de compra simples, intuitiva e personalizada para diferentes perfis de clientes.
 
 ## Funcionalidades:
 
