@@ -1,4 +1,4 @@
-# E-commerce empresa X
+# E-commerce – Empresa X
 
 Este projeto consiste no desenvolvimento de uma plataforma de e-commerce completa, criada com o objetivo de simular um ambiente real de vendas online. O sistema foi pensado para oferecer uma experiência de compra simples, intuitiva e personalizada para diferentes perfis de clientes.
 
@@ -6,30 +6,51 @@ Visão Geral do Projeto
 
 A aplicação conta com as principais funcionalidades encontradas em lojas virtuais modernas, incluindo navegação por catálogo, visualização detalhada de produtos e um processo de checkout otimizado. O layout foi planejado para ser responsivo e visualmente atrativo, com destaque para banners promocionais na página inicial.
 
-## Funcionalidades:
+Funcionalidades Principais
 
-_Checkout, **Tela de produto**, Catálogo, Home com banner_
-**Checkout, _Tela de produto_, Catálogo, Home com banner**
+Página inicial com banners promocionais dinâmicos
 
-###### Melhorias do projeto
+Catálogo de produtos organizado por categorias
 
-__Melhoria 1__, _melhoria 2_
+Tela de produto com informações detalhadas
 
-### Liguagens do projeto:
+Processo de checkout funcional e seguro
 
-* HTML
-* CSS
-* PHP
-* MySQL
+Tecnologias Utilizadas
 
-### Funcionalidades a desenvolver:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-1. Área de membros
-    1. Login diferente para grupos de cliente
-    2. Desconto especial para grupos de cliente
-    3. CSS diferente para grupos de cliente
-2. Integração com outros pagamentos
-3. Sistema de bônus primeira compra
+HTML para a estrutura das páginas
+
+CSS para estilização e layout
+
+PHP para a lógica de negócio e backend
+
+MySQL para o gerenciamento do banco de dados
+
+Funcionalidades em Desenvolvimento
+
+Área de Membros
+
+Sistema de login com diferentes tipos de clientes
+
+Aplicação de descontos exclusivos conforme o grupo do usuário
+
+Estilos visuais personalizados (CSS) para cada grupo de clientes
+
+Integração com Múltiplos Meios de Pagamento
+
+Expansão das opções de pagamento para melhorar a experiência do usuário
+
+Sistema de Bônus na Primeira Compra
+
+Incentivo automático para novos clientes realizarem sua primeira compra
+
+Melhorias Planejadas
+
+Otimização da performance geral do sistema
+
+Melhorias na usabilidade e na experiência do usuário (UX/UI)
 
 #### Imagem local
 
